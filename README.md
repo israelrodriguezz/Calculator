@@ -5,3 +5,8 @@ any numbers with decimals or fractions. It will also drop an error if a number i
 
 Walkthrough is located here: to save time please skip @ the 4:00 min mark to 4:40.
 https://www.loom.com/share/d6eafa86cd984ffc8129107b23d8aced
+
+UPDATE 5 September 21 Application Release #2
+Updated walkthrough:
+https://www.loom.com/share/fb092d8eb2b24ba6b2aa57f48188b35e
+
