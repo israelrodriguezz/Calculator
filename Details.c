@@ -1,5 +1,4 @@
 #include <stdio.h>
-#pragma once
 
 int CaError[] = { 0 };
 
@@ -47,6 +46,7 @@ int calc()
 		//prompts error when operators are inputted incorrectly
 	default:
 		printf("Error");
+		return -1;
 	}
 	return 0;
 }

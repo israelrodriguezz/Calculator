@@ -1,7 +1,6 @@
-#include <stdio.h>
-#include "Details.c"
 #pragma once
+#include <stdio.h>
 
 
-int calc(), caError;
+int calc();
 
