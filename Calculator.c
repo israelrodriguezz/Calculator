@@ -5,5 +5,4 @@ int main()
 {
 	int result = calc();	
 	return result;
-
 }
