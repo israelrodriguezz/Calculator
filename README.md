@@ -14,3 +14,6 @@ Update 6 September 21 Application Release #2.1
 Updated walkthrough:
 https://www.loom.com/share/072a9ff44bff4aca91a1bb4a7d82c998
 
+Update 12 September 21 Applciation Release #3
+Updated Walkthrough:
+https://www.loom.com/share/bd66e6a7f51249ab858f3f4e724f581d
