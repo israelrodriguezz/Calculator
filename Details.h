@@ -2,5 +2,5 @@
 #pragma once
 
 
+int secret();
 int calc();
-
